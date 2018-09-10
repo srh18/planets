@@ -1,4 +1,9 @@
+MARS!!!!!
 Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humididty
+<<<<<<< HEAD
 The bottom is below the top.
+=======
+I still own Mars
+>>>>>>> bfe519c30dc937832cb6307b381807ca0dc8a65d
